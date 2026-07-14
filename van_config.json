@@ -8,6 +8,8 @@
   "temp_threshold_medium": -10.0,
   "temp_hysteresis": 1.0,
   "soc_threshold": 20,
+  "accel_threshold": 6, 
+  "accel_duration": 16 
   "reset_hour": 0,
   "reset_minute": 0,
   "alert_broadcast_enabled": true,
